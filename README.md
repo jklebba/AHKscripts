@@ -1,4 +1,4 @@
-# AHKscripts
+# ahk_scripts
 
 This repo contains simple ahk scripts intended to speed up human-computer interaction in Windows and make certain tasks more efficient.
 
