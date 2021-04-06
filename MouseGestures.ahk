@@ -1,7 +1,7 @@
-﻿; Basic mouse gesture script. Mouse coordinates are recorded when both pressing and releasing the right
-; mouse button. If the difference in cursor location between press/release is greater than 
-; minTravelDist, then a mouse gesture is initiated. The angle the cursor moves is calculated
-; and used to determine which gesture action to run.
+; Basic mouse gesture script. Mouse coordinates are recorded when the right mouse button
+; is pressed and when it is released. If the difference in cursor location between 
+; press/release is greater than minTravelDist, then a mouse gesture is initiated. 
+; The angle the cursor moves is calculated and used to determine which gesture action to run.
 
 ; In my personal version I also run different gesture actions depending on how far the cursor is moved.
 ; One can also runs different gestures in different situations by utilizing 'if WinActive' and 'If WinExist'.
