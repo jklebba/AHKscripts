@@ -4,11 +4,11 @@
 ; The angle the cursor moves is calculated and used to determine which gesture action to run.
 
 ; In my personal version I also run different gesture actions depending on how far the cursor is moved.
-; One can also runs different gestures in different situations by utilizing 'if WinActive' and 'If WinExist'.
+; One can also run different gestures in different situations by utilizing 'if WinActive' and 'If WinExist'.
 
 ; This script will break right click dragging
 
-; Note: This code could now be shortened signifigantly using ahk's 'Switch' syntax.
+; Note: This code could now be shortened signifigantly using ahk's new 'Switch' syntax.
 
 
 Rbutton::                   
