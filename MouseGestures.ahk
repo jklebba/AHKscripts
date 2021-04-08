@@ -10,6 +10,7 @@
 
 ; Note: This code could now be shortened signifigantly using ahk's new 'Switch' syntax.
 
+CoordMode, Mouse, Screen 
 
 Rbutton::                   
 MouseGetPos, x1, y1                     
@@ -20,7 +21,7 @@ if (A_PriorHotkey != "RButton")
 {
     return 
 }
-CoordMode, Mouse, Screen 
+
 minTravelDist =:12
 MouseGetPos, x2, y2
 if (sqrt((y2-y1)**2+(x2-x1)**2) < minTravelDist)
