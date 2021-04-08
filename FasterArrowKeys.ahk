@@ -1,6 +1,6 @@
 ﻿; Instantly use the arrow keys from the home row anytime, anywhere. 
 ; There's no need to waste time moving fingers from home row to arrow keys and then back again.
-; Just hold down Right Alt and use the 'esdf' keys.
+; Just hold down Right Alt with your right thumb and use the 'esdf' keys.
 ; Supports Home/End, highlighting text, moving word to word, fast scrolling/highlighting, etc.
 
 ; I use the layout 'esdf', similar to a 'wasd' layout but this can be easily remapped 
