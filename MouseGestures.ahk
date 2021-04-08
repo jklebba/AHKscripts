@@ -22,7 +22,7 @@ if (A_PriorHotkey != "RButton")
     return 
 }
 
-minTravelDist =:12
+minTravelDist :=12
 MouseGetPos, x2, y2
 if (sqrt((y2-y1)**2+(x2-x1)**2) < minTravelDist)
 {
