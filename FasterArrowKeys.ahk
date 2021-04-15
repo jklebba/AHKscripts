@@ -1,7 +1,13 @@
 ﻿; Instantly use the arrow keys from the home row anytime, anywhere. 
 ; There's no need to waste time moving fingers from home row to arrow keys and then back again.
-; Just hold down Right Alt with your right thumb and use the 'esdf' keys.
 ; Supports Home/End, highlighting text, moving word to word, fast scrolling/highlighting, etc.
+
+; USAGE
+; Hold down 'Right Alt' with your right thumb and use the 'esdf' keys as arrow keys
+; Hold down 'a' to jump one word at a time or to jump 5 lines at a time when moving the caret up and down. 
+; Hit 'w' to jump to the beginning of a line.
+; Hit 'r' to jump to the end of a line.
+; Hold down 'Shift' while moving the caret to select text. 
 
 ; I use the layout 'esdf', similar to a 'wasd' layout but this can be easily remapped 
 ; to be similar to vim or any other key layout.
