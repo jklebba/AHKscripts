@@ -16,7 +16,6 @@ sendFilterString(numDays)
 }
 
 ::;oy::
-
 sendFilterString(365)
 return
 
